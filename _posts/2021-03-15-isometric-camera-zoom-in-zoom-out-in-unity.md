@@ -1,5 +1,5 @@
 ---
-title: Isometric Orthographic Camera Zoom in Zoom Out in Unity 3D
+title: Isometric Orthographic Camera Zoom in Unity 3D
 description: Programming an isometric orthographic camera zoom in zoom out for 3d unity games.
 author: Code Mantid
 date: 2021-03-15 21:34:00 +0800
