@@ -136,7 +136,7 @@ footer {
     margin-bottom: 1rem;
 
     > div {
-      width: 350px;
+      width: 1045px;
     }
   }
 
@@ -151,8 +151,8 @@ footer {
       @include no-text-decoration;
     }
   }
-  .footer-right {
-    text-align: right;
+  .footer-center {
+    text-align: center;
   }
 }
 
@@ -1108,8 +1108,7 @@ $sidebar-display: "sidebar-display";
       -ms-flex-pack: distribute !important;
       justify-content: space-around !important;
     }
-    .footer-left,
-    .footer-right {
+    .footer-center {
       text-align: center;
     }
   }
